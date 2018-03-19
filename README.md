@@ -7,4 +7,4 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 
 ![selfimage](https://www.instagram.com/p/BdOHQEoFwJr/?taken-by=halliefuchs)
 
-## Check out my [Instagram Profile](www.instagram.com/halliefuchs) to learn more
+## Check out my [Instagram Profile](https://www.instagram.com/halliefuchs/) to learn more
