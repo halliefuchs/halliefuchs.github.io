@@ -3,4 +3,6 @@ Data Visualisation Projects
 
 # ABOUT ME
 
-My name is Hallie Fuchs and I am a scientific journalism major at Lehigh University. I am interested in starting a travel/lifestyle blog to promote wellness and happiness. I love photography and have a specific interest in marine biology.
+My name is Hallie Fuchs and I am a scientific journalism major at Lehigh University. I am interested in starting a travel/lifestyle blog to promote wellness and happiness. I love photography and have a specific interest in marine biology. 
+
+## Check out my [Instagram Profile](instagram.com/halliefuchs) to learn more
