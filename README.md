@@ -9,5 +9,6 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 
 ## Check out my [Instagram Profile](https://www.instagram.com/halliefuchs/) to learn more!
 
-I made this infographic using Canva. Data courtesy of Lehigh University 
+# Gender at Lehigh University 
+## I made this infographic using Canva. Data courtesy of Lehigh University 
 
