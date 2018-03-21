@@ -13,3 +13,4 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 ## I made this infographic using Canva. Data courtesy of Lehigh University 
 
 ![genderatlehigh](halliefuchs.github.io/Gender at Lehigh.jpg)
+
