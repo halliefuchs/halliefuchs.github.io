@@ -13,6 +13,7 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 ## I made this infographic using Canva. Data courtesy of Lehigh University 
 
 # Timeline of the Rio de Janeiro 2016 Summer Olympics
-## I made this timeline using TimelineJS. Enjoy!  
+
+## I made this interactive timeline using TimelineJS. Check it out!  
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IizSDDcwewwkevgGMR62IyfDJlMbovnPv6NqS87qAoI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
