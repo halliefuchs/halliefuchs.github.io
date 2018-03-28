@@ -9,18 +9,26 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 
 ## Check out my [Instagram Profile](https://www.instagram.com/halliefuchs/) to learn more about me!
 
+
+
 # Gender at Lehigh University 
-## I made this infographic using Canva. Data courtesy of Lehigh University 
+
+I made this infographic using Canva. Data courtesy of Lehigh University 
 
 ![genderatlehigh](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Gender%20at%20Lehigh.jpg?raw=true)
 
+
+
 # MARINE DEBRIS
-## This infographic displays some data on a very important issue to me personally – marine debris. I created this infographic using Canva with data from [PERSEUS](PERSEUS-NET.EU)
+
+This infographic displays some data on a very important issue to me personally – marine debris. I created this infographic using Canva with data from [PERSEUS](PERSEUS-NET.EU)
 
 ![marinedebris](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/MARINE%20DEBRIS_final.jpg?raw=true)
 
+
+
 # Timeline of the Rio de Janeiro 2016 Summer Olympics
 
-## I made this interactive timeline using TimelineJS. Check it out!  
+I made this interactive timeline using TimelineJS. Check it out!  
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IizSDDcwewwkevgGMR62IyfDJlMbovnPv6NqS87qAoI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
