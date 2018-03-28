@@ -1,5 +1,5 @@
 # Data Visualisation: Hallie Fuchs 
-Data Visualisation Projects 
+A collection of all data visualisation projects I have learned in this course 
 
 # ABOUT ME
 
