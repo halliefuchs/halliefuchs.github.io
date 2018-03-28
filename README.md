@@ -1,4 +1,4 @@
-# halliefuchs.github.io
+# Data Visualisation: Hallie Fuchs 
 Data Visualisation Projects 
 
 # ABOUT ME
