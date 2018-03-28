@@ -12,6 +12,8 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 # Gender at Lehigh University 
 ## I made this infographic using Canva. Data courtesy of Lehigh University 
 
+![genderatlehigh](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Gender%20at%20Lehigh.jpg?raw=true)
+
 # Timeline of the Rio de Janeiro 2016 Summer Olympics
 
 ## I made this interactive timeline using TimelineJS. Check it out!  
