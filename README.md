@@ -17,6 +17,8 @@ My name is Hallie Fuchs and I am a scientific journalism major at Lehigh Univers
 # MARINE DEBRIS
 ## This infographic displays some data on a very important issue to me personally – marine debris. I created this infographic using Canva with data from [PERSEUS](PERSEUS-NET.EU)
 
+![marinedebris](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/MARINE%20DEBRIS_final.jpg?raw=true)
+
 # Timeline of the Rio de Janeiro 2016 Summer Olympics
 
 ## I made this interactive timeline using TimelineJS. Check it out!  
