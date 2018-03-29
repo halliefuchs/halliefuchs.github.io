@@ -32,3 +32,10 @@ This infographic displays some data on a very important issue to me personally â
 I made this interactive timeline using TimelineJS. Check it out!  
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IizSDDcwewwkevgGMR62IyfDJlMbovnPv6NqS87qAoI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+# The History of Happiness Timeline
+
+This interactive timeline I created serves as a little taste of where the concept of happiness came from, how it developed into a lifestyle, and how it continues to put smiles on people's faces thousands of years later. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1uinYWxw6Xu-bRTr6M_JAms6T8UqJ1zD8w2k2LxWAKCA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
