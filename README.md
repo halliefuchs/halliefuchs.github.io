@@ -40,8 +40,9 @@ This interactive timeline I created serves as a little taste of where the concep
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1uinYWxw6Xu-bRTr6M_JAms6T8UqJ1zD8w2k2LxWAKCA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-#Undergraduate Enrollment at Lehigh University 
+# Undergraduate Enrollment at Lehigh University 
 
 This bar chart displays the percent of undergraduate students at Lehigh University enrolled in each college. I created this visualization using chartbuilder, data courtesy of The Office of Institutional Research at Lehigh. 
 
+![chartbuilder_practice](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_University_Percent_Undergraduate_Enrollment__chartbuilder-2.png?raw=true)
 
