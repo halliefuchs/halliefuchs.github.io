@@ -43,7 +43,7 @@ This interactive timeline I created serves as a little taste of where the concep
 
 # Undergraduate Enrollment at Lehigh University 
 
-This bar chart displays the percent of undergraduate students at Lehigh University enrolled in each college (2017). I created this visualization using chartbuilder, data courtesy of The Office of Institutional Research at Lehigh. 
+This bar chart displays the percent of undergraduate students at Lehigh University enrolled in each college (2016). I created this visualization using chartbuilder, data courtesy of The Office of Institutional Research at Lehigh. 
 
 ![chartbuilderb_bargraph](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_University_Percent_Undergraduate_Enrollment__chartbuilder-2.png?raw=true)
 
