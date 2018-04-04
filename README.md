@@ -43,13 +43,13 @@ This interactive timeline I created serves as a little taste of where the concep
 
 # Undergraduate Enrollment at Lehigh University 
 
-This bar chart displays the percent of undergraduate students at Lehigh University enrolled in each college. I created this visualization using chartbuilder, data courtesy of The Office of Institutional Research at Lehigh. 
+This bar chart displays the percent of undergraduate students at Lehigh University enrolled in each college (2017). I created this visualization using chartbuilder, data courtesy of The Office of Institutional Research at Lehigh. 
 
 ![chartbuilderb_bargraph](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_University_Percent_Undergraduate_Enrollment__chartbuilder-2.png?raw=true)
 
 # Undergraduate Enrollment at Lehigh University by College 
 
-This line graph tracks the total number of undergraduate students enrolled in the Arts and Science, Bussiness, and Engineering colleges over a ten year period at Lehigh Univeristy. I thought that each line would have a growth trend, but in reality the trends varied depending on the year.  
+This line graph tracks the total number of undergraduate students enrolled in the Arts and Science, Bussiness, and Engineering colleges over a ten year period at Lehigh Univeristy. I made this graph using Chartbuilder. I predicted that each line would have a growth trend, but in reality the trends varied depending on the year.
 
 ![chartbuilder_linegraph](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_University__Arts_&_Science_Business__Engineering__chartbuilder-2.png?raw=true)
 
