@@ -21,7 +21,7 @@ I made this infographic using Canva. Data courtesy of Lehigh University
 
 This infographic displays some data on a very important issue to me personally – marine debris. I created this infographic using Canva with data from [PERSEUS](PERSEUS-NET.EU)
 
-![canva_infographic_assignment](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/MARINE%20DEBRIS_final.jpg?raw=true)
+![canva_infographic_assignment](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Screen%20Shot%202018-04-08%20at%209.01.32%20PM.png?raw=true)
 
 
 
