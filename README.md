@@ -1,6 +1,6 @@
 # Data Visualisations: Hallie Fuchs 
 
-This page serves as a place to collect all data visualization projects I have created during my data visualization course at Lehigh University. 
+This page serves as a place to collect all of the projects I have created during my data visualization course at Lehigh University. 
 
 # ABOUT ME
 
