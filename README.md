@@ -60,3 +60,11 @@ The [Environmental Protection Agency (EPA)](https://www.epa.gov/trinationalanaly
 Over this ten year period, Hawaii's total releases of TRIs have decreased but land and water releases specifically have increased. Watch this [video from the EPA](https://www.youtube.com/watch?time_continue=9&v=p9y18YUVL9w) to learn more about TRI emissions.
 
 ![chartbuilder_linegraph_assignment](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Toxic_Chemical_Release_in_Hawaii_Land__Water_Air_chartbuilder-2.png?raw=true)
+
+# Arts Centers in the Lehigh Valley 
+
+This map I created with Google Fusion displays five arts centers open to the public in the Lehigh Valley. Under each location, see a description, address, and link to the center's web page. 
+
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1BdB3zrCNgAuw4ZIYljuO4C2PK_wkgi2H_HWaLVFK&amp;viz=MAP&amp;h=false&amp;lat=40.611763021878744&amp;lng=-75.37430300880737&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+
