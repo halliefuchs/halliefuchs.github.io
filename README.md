@@ -67,4 +67,9 @@ This map I created with Google Fusion displays five arts centers open to the pub
 
 <iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1BdB3zrCNgAuw4ZIYljuO4C2PK_wkgi2H_HWaLVFK&amp;viz=MAP&amp;h=false&amp;lat=40.611763021878744&amp;lng=-75.37430300880737&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
+# Top Baby Names in the United States
+
+This interactive map I created with Tableau allows you to view the top baby names from 1912-2012 by gender.
+
+<divclass='tableauPlaceholder'id='viz1523895940812'style='position:relative'><noscript><ahref='#'><img alt='Dashboard1'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;M7&#47;M7BGD9SNF&#47;1_rss.png'style='border:none'/></a></noscript><objectclass='tableauViz'style='display:none;'><param name='host_url'value='https%3A%2F%2Fpublic.tableau.com%2F'/><param name='embed_code_version'value='3'/><param name='path'value='shared&#47;M7BGD9SNF'/><paramname='toolbar'value='yes'/><paramname='static_image'value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;M7&#47;M7BGD9SNF&#47;1.png'/><paramname='animate_transition'value='yes'/><paramname='display_static_image'value='yes'/><param name='display_spinner'value='yes'/><param name='display_overlay'value='yes'/><param name='display_count'value='yes'/><param name='filter'value='publish=yes'/></object></div><script type='text/javascript'>var divElement=document.getElementById('viz1523895940812');varvizElement= divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height+(divElement.offsetWidth*0.75)+'px';varscriptElement=document.createElement('script');scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement,vizElement);</script>
 
