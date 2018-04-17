@@ -67,6 +67,18 @@ This map I created with Google Fusion displays five arts centers open to the pub
 
 <iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1BdB3zrCNgAuw4ZIYljuO4C2PK_wkgi2H_HWaLVFK&amp;viz=MAP&amp;h=false&amp;lat=40.611763021878744&amp;lng=-75.37430300880737&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
+# Undergraduate Marine Science Programs in the United States
+
+This map I created using Google Fusion shows almost every undergraduate marine biology / marine science programs in the United States. When I was a sophomore at Lehigh, I took a marine science class during my study abroad program in Bermuda. I fell in love with the subject and looked into taking classes at a nearby university to count towards my Lehigh degree. I was dissapointed to discover, however, that the only universities that offered marine science classes were far away (near the coast). 
+
+I became curious about whether any other land-locked states around the country had the same lack of marine science programs. After creating this map, I was surprised and intruiged to discover that almost every marine science program around the country was offered at a university directly on the coast. 
+
+It makes sense – students are able to get hands-on experience by studying in an environment close to the water. I believe, however, that all students looking to major in marine science should understand this. Students living in land-locked states such as Pennsylvania should know that they may have to travel to a distant university in order to study marine science. 
+
+All photos and videos cortesy of the corresponding university's web page. 
+
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1DLI_DD1MvZhpIdZbmKUHVYzjhV2w3j9Dyiz48Mr2&amp;viz=MAP&amp;h=false&amp;lat=50.24685394122171&amp;lng=-113.44364688437497&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
 # Top Baby Names in the United States
 
 This interactive map I created with Tableau allows you to view the top baby names from 1912-2012 by gender. To see the full map, please view on full-screen mode. 
