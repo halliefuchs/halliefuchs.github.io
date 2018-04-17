@@ -77,7 +77,7 @@ It makes sense – students are able to get hands-on experience by studying in 
 
 All photos and videos cortesy of the corresponding university's web page. 
 
-<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1DLI_DD1MvZhpIdZbmKUHVYzjhV2w3j9Dyiz48Mr2&amp;viz=MAP&amp;h=false&amp;lat=50.24685394122171&amp;lng=-113.44364688437497&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1DLI_DD1MvZhpIdZbmKUHVYzjhV2w3j9Dyiz48Mr2&amp;viz=MAP&amp;h=false&amp;lat=31.146536601775157&amp;lng=-99.02958438437497&amp;t=1&amp;z=3&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 # Top Baby Names in the United States
 
