@@ -73,7 +73,7 @@ This map I created using Google Fusion shows almost every undergraduate marine b
 
 I became curious about whether any other land-locked states around the country had the same lack of marine science programs. After creating this map, I was surprised and intruiged to discover that almost every marine science program around the country was offered at a university directly on the coast. 
 
-It makes sense – students are able to get hands-on experience by studying in an environment close to the water. I believe, however, that all students looking to major in marine science should understand this. Students living in land-locked states such as Pennsylvania should know that they may have to travel to a distant university in order to study marine science. 
+It makes sense – students are able to get hands-on experience by studying in an environment close to the water. I believe, however, that students attending universities that are not directly on the coast should have an oppertunity to learn marine science too. Marine science is a hugely important field of study as climate change grows to be more and more of an impending threat to our planet. In addition, students living in land-locked states (such as Pennsylvania) should know that they may have to travel to a distant university in order to study marine science. 
 
 All photos and videos courtesy of the corresponding university's web page. 
 
