@@ -95,4 +95,4 @@ I created this map using Tableau to allow my readers to interact with data on dr
 
 This comic I created using Pixton is about the day I brought home my first puppy, Zoe. 
 
-https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Screen%20Shot%202018-05-02%20at%2011.10.34%20AM.png?raw=true
+![comic](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Screen%20Shot%202018-05-02%20at%2011.10.34%20AM.png?raw=true)
