@@ -32,7 +32,7 @@ I made this interactive timeline on the progression of the 2016 summer olympics 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IizSDDcwewwkevgGMR62IyfDJlMbovnPv6NqS87qAoI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-# The History of Happiness Timeline
+#   EDIT The History of Happiness Timeline
 
 This interactive timeline I created serves as a taste of where the concept of happiness came from, how it developed into a lifestyle, and how it continues to put smiles on people's faces thousands of years later. 
 
