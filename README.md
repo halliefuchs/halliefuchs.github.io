@@ -59,7 +59,7 @@ The [Environmental Protection Agency (EPA)](https://www.epa.gov/trinationalanaly
 
 Over this ten year period, Hawaii's total releases of TRIs have decreased but land and water releases specifically have increased. The overall trend for air emissions has decreased consistently throughout the time period. Check out this [video from the EPA](https://www.youtube.com/watch?time_continue=9&v=p9y18YUVL9w) to learn more about TRI emissions.
 
-![chartbuilder_linegraph_assignment](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Toxic_Chemical_Release_in_Hawaii_Land__Water_Air_chartbuilder-2.png?raw=true)
+![chartbuilder_assignment](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Screen%20Shot%202018-05-07%20at%2011.58.01%20AM.png?raw=true)
 
 # Arts Centers in the Lehigh Valley 
 
