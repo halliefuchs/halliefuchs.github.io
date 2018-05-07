@@ -57,7 +57,7 @@ This chart I created with Chartbuilder displays the pounds of toxic chemicals (s
 
 The [Environmental Protection Agency (EPA)](https://www.epa.gov/trinationalanalysis) has decided to regualte and collect data on the disposal of these toxic chemicals due to their potential to harm the health humans, animals, or the environment. This particular chart focuses on chemicals released on land, into the ocean, and into the air in the state of Hawaii, which is ranked 40/56 states or territories for total releases per square mile (Rank 1 = highest releases). 
 
-Over this ten year period, Hawaii's total releases of TRIs have decreased but land and water releases specifically have increased. Watch this [video from the EPA](https://www.youtube.com/watch?time_continue=9&v=p9y18YUVL9w) to learn more about TRI emissions.
+Over this ten year period, Hawaii's total releases of TRIs have decreased but land and water releases specifically have increased. The overall trend for air emissions has decreased consistently throughout the time period. Check out this [video from the EPA](https://www.youtube.com/watch?time_continue=9&v=p9y18YUVL9w) to learn more about TRI emissions.
 
 ![chartbuilder_linegraph_assignment](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Toxic_Chemical_Release_in_Hawaii_Land__Water_Air_chartbuilder-2.png?raw=true)
 
