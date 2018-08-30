@@ -1,8 +1,8 @@
 # Data Journalism Portfolio
 
-Below you will find my final portfolio of data visualization projects.
+Below you will find my final portfolio of data journalism projects, including Data Visualizations and Data Storytelling.
 
-# About Me and This Portfolio
+## About Me and This Portfolio
 
 My name is Hallie Fuchs and I am a scientific journalism major at Lehigh University with a minor in Health, Medicine and Society. I care very deeply about the health of both the environment and people. I will be launching a travel/lifestyle blog to promote living a life of wellness and happiness. I am also a very skilled photographer and videographer and have trained with National Geographic professionals. 
 
