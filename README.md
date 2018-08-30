@@ -1,4 +1,4 @@
-# Data Visualisations Final Portfolio
+# Data Journalism Portfolio
 
 Below you will find my final portfolio of data visualization projects.
 
