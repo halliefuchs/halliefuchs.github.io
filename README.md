@@ -12,6 +12,10 @@ It is my personal philosophy that every person should care about their own healt
 
 ## Check out my [Instagram Profile](https://www.instagram.com/halliefuchs/) to learn more about me!
 
+# Data Storytelling Projects 
+
+# Data Visualizations Projects 
+
 # MARINE DEBRIS
 
 This infographic displays some data on a very important issue to me personally – marine debris. I created this infographic using Canva with data from [PERSEUS](PERSEUS-NET.EU)
@@ -58,11 +62,11 @@ To see the full map, please view on full-screen mode.
 
 # PRACTICE ASSIGNMENTS
 
-The assignments below are not a part of my final portfolio, but rather served as practice with using the softwares in the class. 
+The assignments below are not a part of my final portfolio, but rather served as practice with using the softwares in the course. 
 
 # Gender at Lehigh University 
 
-I made this infographic using Canva. Data courtesy of Lehigh University 
+I made this infographic using Canva. Data courtesy of Lehigh University. 
 
 ![canva_infographic_practice](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Gender%20at%20Lehigh.jpg?raw=true)
 
