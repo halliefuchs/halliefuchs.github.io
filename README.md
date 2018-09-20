@@ -62,7 +62,11 @@ To see the full map, please view on full-screen mode.
 
 # PRACTICE ASSIGNMENTS
 
-The assignments below are not a part of my final portfolio, but rather served as practice with using the softwares in the course. 
+The assignments below are not a part of my final portfolio, but rather served as practice with using the softwares in the data storytelling and data visualizations courses. 
+
+# Lehigh Enrollment Interactive Pie Chart: Datawrapper 
+
+<iframe id="datawrapper-chart-4Neua" src="//datawrapper.dwcdn.net/4Neua/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["4Neua"]={},window.datawrapper["4Neua"].embedDeltas={"100":620,"200":493,"300":434,"400":417,"500":400,"700":400,"800":400,"900":400,"1000":383},window.datawrapper["4Neua"].iframe=document.getElementById("datawrapper-chart-4Neua"),window.datawrapper["4Neua"].iframe.style.height=window.datawrapper["4Neua"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["4Neua"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("4Neua"==b)window.datawrapper["4Neua"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
 # Gender at Lehigh University 
 
