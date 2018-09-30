@@ -64,7 +64,15 @@ To see the full map, please view on full-screen mode.
 
 The assignments below are not a part of my final portfolio, but rather served as practice with using the softwares in the data storytelling and data visualizations courses. 
 
-# Lehigh Enrollment in 2017
+# Datawrapper
+
+## Global CO2 Emissions 
+
+I created this interactive area chart with Datawrapper's sample data.
+
+<iframe id="datawrapper-chart-TMqOX" src="//datawrapper.dwcdn.net/TMqOX/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="401"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["TMqOX"]={},window.datawrapper["TMqOX"].embedDeltas={"100":570,"200":477,"300":435,"400":418,"500":418,"700":401,"800":401,"900":401,"1000":401},window.datawrapper["TMqOX"].iframe=document.getElementById("datawrapper-chart-TMqOX"),window.datawrapper["TMqOX"].iframe.style.height=window.datawrapper["TMqOX"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["TMqOX"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("TMqOX"==b)window.datawrapper["TMqOX"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+## Undergraduate Enrollment at Lehigh University 
 
 I used Datawrapper to create this interactive line chart addressing this question: How did the percent enrollment in each of Lehigh's three undergraduate colleges change in the past ten years? I customized the chart to have large, opaque dots at each interactive data point, and I changed the lines from linear to curved.
 
@@ -78,7 +86,7 @@ This bar chart, also created with Datawrapper, displays the same data in a diffe
 
 <iframe id="datawrapper-chart-RiJfu" src="//datawrapper.dwcdn.net/RiJfu/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="378"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["RiJfu"]={},window.datawrapper["RiJfu"].embedDeltas={"100":513,"200":420,"300":378,"400":378,"500":378,"700":361,"800":361,"900":361,"1000":361},window.datawrapper["RiJfu"].iframe=document.getElementById("datawrapper-chart-RiJfu"),window.datawrapper["RiJfu"].iframe.style.height=window.datawrapper["RiJfu"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["RiJfu"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("RiJfu"==b)window.datawrapper["RiJfu"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
-# Gender at Lehigh University 
+# Canva: Gender at Lehigh University 
 
 I made this infographic using Canva. Data courtesy of Lehigh University. 
 
@@ -90,7 +98,9 @@ This comic I created using Pixton is about the day I brought home my first puppy
 
 ![comic](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Screen%20Shot%202018-05-02%20at%2011.10.34%20AM.png?raw=true)
 
-# Top Baby Names in the United States
+# Tableau
+
+## Top Baby Names in the United States
 
 This interactive map I created with Tableau allows you to view the top baby names from 1912-2012 by gender. To see the full map, please view on full-screen mode. 
 
@@ -102,19 +112,21 @@ This map I created with Google Fusion displays five arts centers open to the pub
 
 <iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1BdB3zrCNgAuw4ZIYljuO4C2PK_wkgi2H_HWaLVFK&amp;viz=MAP&amp;h=false&amp;lat=40.611763021878744&amp;lng=-75.37430300880737&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-# Undergraduate Enrollment at Lehigh University 
+# Chartbuilder
+
+## Undergraduate Enrollment at Lehigh University 
 
 This bar chart displays the percent of undergraduate students at Lehigh University enrolled in each college (2016). I created this visualization using chartbuilder, data courtesy of The Office of Institutional Research at Lehigh. 
 
 ![chartbuilder_bargraph_practice](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_University_Percent_Undergraduate_Enrollment__chartbuilder-2.png?raw=true)
 
-# Undergraduate Enrollment at Lehigh University by College 
+## Undergraduate Enrollment at Lehigh University by College 
 
 This line graph tracks the total number of undergraduate students enrolled in the Arts and Science, Bussiness, and Engineering colleges over a ten year period at Lehigh Univeristy. I made this graph using Chartbuilder. I predicted that each line would have a growth trend, but in reality the trends varied depending on the year.
 
 ![chartbuilder_linegraph_practice](https://github.com/halliefuchs/halliefuchs.github.io/blob/master/Undergraduate_Enrollment_at_Lehigh_University__Arts_&_Science_Business__Engineering__chartbuilder-2.png?raw=true)
 
-# Timeline of the Rio de Janeiro 2016 Summer Olympics
+# TimelineJS: Rio de Janeiro 2016 Summer Olympics
 
 I made this interactive timeline on the progression of the 2016 summer olympics using TimelineJS. Check it out!  
 
