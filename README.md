@@ -14,6 +14,12 @@ It is my personal philosophy that every person should care about their own healt
 
 # Data Storytelling Projects 
 
+## Datawrapper Line Chart
+
+This chart I created with datawrapper shows the ways birth rate fluctuates based on the time of year. I added text annotations to my visualization that enhanced the meaning of story, and included a shaded range highlight that corresponded to the information. 
+
+<iframe id="datawrapper-chart-Z7EAk" src="//datawrapper.dwcdn.net/Z7EAk/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="412"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Z7EAk"]={},window.datawrapper["Z7EAk"].embedDeltas={"100":615,"200":513,"300":471,"400":429,"500":412,"700":412,"800":412,"900":412,"1000":395},window.datawrapper["Z7EAk"].iframe=document.getElementById("datawrapper-chart-Z7EAk"),window.datawrapper["Z7EAk"].iframe.style.height=window.datawrapper["Z7EAk"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["Z7EAk"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Z7EAk"==b)window.datawrapper["Z7EAk"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
 # Data Visualizations Projects 
 
 # MARINE DEBRIS
